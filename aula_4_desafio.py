@@ -1,5 +1,5 @@
 '''
-Faculdade de Informática e Administração - FIAP
+Faculdade de Informática e Administração Paulista - FIAP
 Defesa Cibernética
 Optimization for Security
 Prof. Ms. Fábio Henrique Cabrini
