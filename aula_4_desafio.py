@@ -1,9 +1,9 @@
 '''
 Faculdade de Informática e Administração Paulista - FIAP
 Defesa Cibernética
-Optimization for Security
+Code for Security
 Prof. Ms. Fábio Henrique Cabrini
-3/2020
+2/2021
 Equação do 2º grau 
 '''
 from math import sqrt
